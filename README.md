@@ -56,10 +56,3 @@ To develop a dashboard that provides:
 
 - Microsoft Power BI
 - Excel (Data Preparation)
-
----
-
-## 📄 License
-
-MIT License (or your preferred license)
-
