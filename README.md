@@ -15,7 +15,7 @@ To develop a dashboard that provides:
 
 ## 📁 Data Sources
 
-- `income_statement_extended.xlsx` (sample dataset)
+- `income_statement.xlsx` (sample dataset)
 - Data includes monthly revenue, profit, cash flow activities, and balance sheet summaries
 
 ---
@@ -32,7 +32,7 @@ To develop a dashboard that provides:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboard Output.png)
+<img width="1211" height="683" alt="Dashboard Output" src="https://github.com/user-attachments/assets/c18280e7-4ef3-42d4-a504-af61a4ea811b" />
 
 ---
 
